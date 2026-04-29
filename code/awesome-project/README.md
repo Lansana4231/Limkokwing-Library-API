@@ -50,9 +50,3 @@ sequenceDiagram
    python3 main.py simulate
    ```
 
-## Documentation
-- [API Design](API_DESIGN.md)
-- [Reflection & SDG Alignment](REFLECTION.md)
-
-## License
-Open Source - Limkokwing University
